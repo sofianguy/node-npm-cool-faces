@@ -1,0 +1,14 @@
+{
+  "name": "node-npm",
+  "version": "1.0.0",
+  "description": "techtalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.3"
+  }
+}
